@@ -21,6 +21,9 @@ What's a better way to know what `PopMenu` offers than some live action images? 
 
 <p align="center"><img src="https://raw.githubusercontent.com/CaliCastle/PopMenu/master/.assets/Demo_Showcase.gif" width="280"></p>
 
+add select style chonsed icon show, or hidden ,default is no chonsen style 
+  let popMenu = PopMenuViewController(sourceView:self.currentBtn,actions: actions, chonsenState: true, currentIndex: cuIndex)
+
 ## 💪🏻 Contribute
 
 Thank you if you are interested in contributing to the project, I appreaciate it!
